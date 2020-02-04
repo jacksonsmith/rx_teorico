@@ -1,0 +1,6 @@
+framework module Pods_rx_teorico {
+  umbrella header "Pods-rx-teorico-umbrella.h"
+
+  export *
+  module * { export * }
+}
